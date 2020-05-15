@@ -1,0 +1,12 @@
+{
+"companyName": "OQ2",
+"productName": "View 360",
+"dataUrl": "View360.data.unityweb",
+"wasmCodeUrl": "View360.wasm.code.unityweb",
+"wasmFrameworkUrl": "View360.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
